@@ -386,7 +386,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Mutant Birds! WTF You Thought It Was!!!!
+Mutant Birds! WTF You Thought It Was!!!!
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
