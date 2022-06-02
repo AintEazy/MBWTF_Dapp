@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 3555,
   "WEI_COST": 4000000000000000,
   "DISPLAY_COST": 0.004,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 110000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mutant-birds-wtf",
   "SHOW_BACKGROUND": true
